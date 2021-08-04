@@ -26,11 +26,9 @@ Eu sou **Renata Shirlen** e sou uma estudante de **Ciência da Computação**, *
  
 (![Renata stats](https://github-readme-stats.vercel.app/api?username=renatashirlen&show_icons=true&theme=cobalt))
 
-
-
 ## 👤 OUTRAS REDES
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatashirlen/)
  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/itsmealis)
 #
-<div>![counter](https://komarev.com/ghpvc/?username=renatashirlen&color=dc143c)
+<div style="text-alig: center;"><img src="https://komarev.com/ghpvc/?username=renatashirlen&color=dc143c"></img></div>
    
