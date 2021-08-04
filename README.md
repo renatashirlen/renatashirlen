@@ -2,12 +2,9 @@
 <p>Eu sou <strong>Renata Shirlen</strong> e sou uma estudante de <strong>Ciência da Computação</strong>, <strong>Designer</strong> e <strong>Dev</strong>.</p>
 <p>💻Estou participando do <strong>Start Tech</strong> da Gama Academy<br>⌨️Estou participando do <strong>Projeto Dev</strong> da Kenzie Academy<br>📚Estou estudando <strong>node.js</strong> 
  
-💡Meus interesses atuais são: </p>
-<ul>
-<li><strong>Front-End</strong> </li>
-<li><strong>UX/UI</strong> </li>
-<li><strong>web development</strong>  </li>
-</ul>
+💡Meus interesses atuais são:</p> 
+<p><strong>[ Front-End ]</strong> <strong>[ UX/UI ]</strong> <strong>[ web development ]</strong> </p>
+
 
 <h2>🔮 STATS 🔮</h2>
 
