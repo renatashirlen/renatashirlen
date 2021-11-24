@@ -1,6 +1,27 @@
 <h1>✨OLÁ✨</h1>
 <p>Eu sou <strong>Renata Shirlen</strong> e sou uma estudante de <strong>Ciência da Computação</strong>, <strong>Designer</strong> e <strong>Dev</strong>.</p>
-<p>💻Estou participando do <strong>Start Tech</strong> da Gama Academy<br>⌨️Estou participando do <strong>Projeto Dev</strong> da Kenzie Academy<br>📚Estou estudando <strong>node.js</strong> 
+<p>💻Estou participando do <strong>HSM Coders</strong> da Gama Academy<br>⌨️Estou estudando do <strong>Python</strong> da Kenzie Academy<br>📚Estou estudando <strong>JavaScript</strong>
+ 
+<h2>🎓 CURSOS FINALIZADOS 🎓</h2>
+
+<table>
+ <thead>
+  <tr>
+   <th>Competência</th>
+   <th>Curso</th>
+   <th>Escola</th>
+   <th>Carga Horária</th>
+ </thead>
+ 
+ <tbody>
+  <tr>Full Stack</tr>
+  <td></td>
+ </tbody>
+
+<p>💾 <strong>[DEV FULL STACK]</strong> Start Tech - Gama Academy - 120 horas</p>
+<p>💾 <strong>[SWIFT]</strong> Workshop Maria vai com as dev - Gama Academy</p>
+<p>💾 <strong>[GIT E GITHUB]</strong> Introdução ao Git e Github - DIO - 5 horas</p>
+<p>💾 <strong>[JAVASCRIPT]</strong> Introdução ao JavaScript - DIO - 5 horas</p>
  
 💡Meus interesses atuais são:</p> 
 <p>🚀 <strong>[ Front-End ]</strong> <strong>[ UX/UI ]</strong> <strong>[ web development ]</strong> </p>
