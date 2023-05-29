@@ -1,30 +1,17 @@
 <h1>✨OLÁ✨</h1>
-<p>Eu sou <strong>Renata Shirlen</strong> e sou uma estudante de <strong>Ciência da Computação</strong>, <strong>Designer</strong> e <strong>Dev</strong>.</p>
-<p>💻Estou participando do <strong>HSM Coders</strong> da Gama Academy<br>⌨️Estou estudando do <strong>Python</strong> da Kenzie Academy<br>📚Estou estudando <strong>JavaScript</strong>
+<p>Eu sou <strong>Renata Shirlen</strong> e sou uma estudante de <strong>Ciência da Computação</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong>, <strong>Designer</strong> e <strong>Dev</strong>.</p>
+<p>💻Sou estagiária da LabWare Brasil. 📚Estou estudando <strong>Java e SQL</strong>.
  
 <h2>🎓 CURSOS FINALIZADOS 🎓</h2>
-
-<table>
- <thead>
-  <tr>
-   <th>Competência</th>
-   <th>Curso</th>
-   <th>Escola</th>
-   <th>Carga Horária</th>
- </thead>
- 
- <tbody>
-  <tr>Full Stack</tr>
-  <td></td>
- </tbody>
 
 <p>💾 <strong>[DEV FULL STACK]</strong> Start Tech - Gama Academy - 120 horas</p>
 <p>💾 <strong>[SWIFT]</strong> Workshop Maria vai com as dev - Gama Academy</p>
 <p>💾 <strong>[GIT E GITHUB]</strong> Introdução ao Git e Github - DIO - 5 horas</p>
 <p>💾 <strong>[JAVASCRIPT]</strong> Introdução ao JavaScript - DIO - 5 horas</p>
+<p>💾 <strong>[FRONT END 1] Programaria - 36 horas</p>
  
 💡Meus interesses atuais são:</p> 
-<p>🚀 <strong>[ Front-End ]</strong> <strong>[ UX/UI ]</strong> <strong>[ web development ]</strong> </p>
+<p>🚀 <strong>[ Front-End ]</strong> <strong>[ banco de dados ]</strong> <strong>[ web development ]</strong> </p>
 
 
 <h2>🔮 STATS 🔮</h2>
@@ -36,33 +23,35 @@
 <thead>
 <tr>
 <th>DEV</th>
-<th>DESIGN</th>
+<th>LINGUGENS</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
 <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML"></td>
-<td><img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="PS"></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/CSS-239120?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS"></td>
-<td><img src="https://aleen42.github.io/badges/src/illustrator.svg" alt="IL">  </td>
+<td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" ALT="C">  </td>
 </tr>
-<tr>
- <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JS">   </td>
-  <td></td>
-</tr> 
  <tr>
  <td><img src="https://flat.badgen.net/badge/icon/visualstudio?icon=visualstudio&amp;label" alt="VS"></td>
-  <td></td>
+  <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JS"></td>
 </tr> 
+ <tr>
+  <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"></td>
+  <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
+ </tr>
 </tbody>
 </table>
 
 <h3>SISTEMA</h3>
 
 <p> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"></p>
+<p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></p>
+<p> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"></p>
 
 
 <h2>👤 OUTRAS REDES 👤</h2>
