@@ -1,18 +1,22 @@
 <h1>✨OLÁ✨</h1>
-<p>Eu sou <strong>Renata Shirlen</strong> e sou uma estudante de <strong>Ciência da Computação</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong>, <strong>Designer</strong> e <strong>Dev</strong>.</p>
-<p>💻Sou estagiária da LabWare Brasil. 📚Estou estudando <strong>Java e SQL</strong>.
+<p>Eu sou <strong>Renata Shirlen</strong> e sou formada em Análise e Desenvolvimento de Sistemas e estudo de <strong>Ciência da Computação</strong>.</p>
+<p>📚Estou estudando <strong>Python e SQL</strong>.
  
-<h2>🎓 CURSOS FINALIZADOS 🎓</h2>
+<h2>👩🏾‍💻 CURSOS EM ANDAMENTO 👩🏾‍💻</h2>
+<p>💾 <strong>[PYTHON]</strong> - FEA.Dev</p>
 
+<h2>🎓 CURSOS FINALIZADOS🎓</h2>
+<p><small>Listinha resumida</small></p>
 <p>💾 <strong>[DEV FULL STACK]</strong> Start Tech - Gama Academy - 120 horas</p>
 <p>💾 <strong>[SWIFT]</strong> Workshop Maria vai com as dev - Gama Academy</p>
 <p>💾 <strong>[GIT E GITHUB]</strong> Introdução ao Git e Github - DIO - 5 horas</p>
 <p>💾 <strong>[JAVASCRIPT]</strong> Introdução ao JavaScript - DIO - 5 horas</p>
-<p>💾 <strong>[FRONT END 1] Programaria - 36 horas</p>
+<p>💾 <strong>[FRONT END 1] PrograMaria - 36 horas</p>
+<p>💾 <strong>[ANÁLISE DE DADOS E IA]</strong> - PrograMaria</p>
+<p>💾 <strong>[BACK-END]</strong> - PrograMaria</p>
  
 💡Meus interesses atuais são:</p> 
 <p>🚀 <strong>[ Front-End ]</strong> <strong>[ banco de dados ]</strong> <strong>[ web development ]</strong> </p>
-
 
 <h2>🔮 STATS 🔮</h2>
 
@@ -23,7 +27,7 @@
 <thead>
 <tr>
 <th>DEV</th>
-<th>LINGUGENS</th>
+<th>LINGUAGENS</th>
 </tr>
 </thead>
 
