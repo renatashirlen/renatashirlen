@@ -3,17 +3,23 @@
 <p>📚Estou estudando <strong>Python e SQL</strong>.
  
 <h2>👩🏾‍💻 CURSOS EM ANDAMENTO 👩🏾‍💻</h2>
-<p>💾 <strong>[PYTHON]</strong> - FEA.Dev</p>
+<p>💾 <strong>[AWS/PYTHON]</strong> - Escola da Nuvem - AWS re/start </p>
+<p>💾 <strong>[DADOS]</strong> - Data Analytics - Google + Coursera </p>
+<p>💾 <strong>[DADOS]</strong> - Análise de Dados e PowerBI - DSA </p>
+<p>💾 <strong>[DADOS]</strong> - Ciência de Dados - AVANTI </p>
+<p>💾 <strong>[DADOS]</strong> - SoulCode </p>
 
 <h2>🎓 CURSOS FINALIZADOS🎓</h2>
 <p><small>Listinha resumida</small></p>
+<p>💾 <strong>[DADOS]</strong> Santander Tech+</p>
+<p>💾 <strong>[ANÁLISE DE DADOS E IA]</strong> - PrograMaria</p>
+<p>💾 <strong>[BACK-END]</strong> - PrograMaria</p>
 <p>💾 <strong>[DEV FULL STACK]</strong> Start Tech - Gama Academy - 120 horas</p>
 <p>💾 <strong>[SWIFT]</strong> Workshop Maria vai com as dev - Gama Academy</p>
 <p>💾 <strong>[GIT E GITHUB]</strong> Introdução ao Git e Github - DIO - 5 horas</p>
 <p>💾 <strong>[JAVASCRIPT]</strong> Introdução ao JavaScript - DIO - 5 horas</p>
 <p>💾 <strong>[FRONT END 1] PrograMaria - 36 horas</p>
-<p>💾 <strong>[ANÁLISE DE DADOS E IA]</strong> - PrograMaria</p>
-<p>💾 <strong>[BACK-END]</strong> - PrograMaria</p>
+
  
 💡Meus interesses atuais são:</p> 
 <p>🚀 <strong>[ Front-End ]</strong> <strong>[ banco de dados ]</strong> <strong>[ web development ]</strong> </p>
