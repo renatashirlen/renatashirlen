@@ -3,14 +3,14 @@
 <p>📚Estou estudando <strong>Python e SQL</strong>.
  
 <h2>👩🏾‍💻 CURSOS EM ANDAMENTO 👩🏾‍💻</h2>
-<p>💾 <strong>[AWS/PYTHON]</strong> - Escola da Nuvem - AWS re/start </p>
 <p>💾 <strong>[DADOS]</strong> - Data Analytics - Google + Coursera </p>
 <p>💾 <strong>[DADOS]</strong> - Análise de Dados e PowerBI - DSA </p>
 <p>💾 <strong>[DADOS]</strong> - Ciência de Dados - AVANTI </p>
-<p>💾 <strong>[DADOS]</strong> - SoulCode </p>
+<p>💾 <strong>[DADOS]</strong> - Análise de Dados e Plataformas LowCode - Embraer Social Tech SoulCode  </p>
 
 <h2>🎓 CURSOS FINALIZADOS🎓</h2>
 <p><small>Listinha resumida</small></p>
+<p>💾 <strong>[AWS/PYTHON]</strong> - Escola da Nuvem - AWS re/start </p>
 <p>💾 <strong>[DADOS]</strong> Santander Tech+</p>
 <p>💾 <strong>[ANÁLISE DE DADOS E IA]</strong> - PrograMaria</p>
 <p>💾 <strong>[BACK-END]</strong> - PrograMaria</p>
