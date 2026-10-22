@@ -56,9 +56,9 @@ Compreender o problema e suas restrições, planejar mudanças revisáveis, test
 ## Certificações e credenciais
 
 <p>
-  <a href="https://www.credly.com/badges/de9d0005-a4ad-4648-a217-398b08e1a189/public_url"><img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/linkedin_thumb_image.png" width="150" alt="AWS re/Start Graduate issued by Amazon Web Services Training and Certification" /></a>
-  <a href="https://www.credly.com/badges/df09e3f8-e429-40ed-9155-1e100603a07f/public_url"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="150" alt="AWS Certified Cloud Practitioner issued by Amazon Web Services Training and Certification" /></a>
-  <a href="https://www.credly.com/badges/6e84b067-9eb6-48aa-8e90-122c79da33b5/public_url"><img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/linkedin_thumb_CyberEssentials.png" width="150" alt="Cybersecurity Essentials issued by Cisco" /></a>
+  <a href="https://www.credly.com/badges/de9d0005-a4ad-4648-a217-398b08e1a189/public_url"><img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/linkedin_thumb_image.png" width="180" alt="AWS re/Start Graduate issued by Amazon Web Services Training and Certification" /></a>
+  <a href="https://www.credly.com/badges/df09e3f8-e429-40ed-9155-1e100603a07f/public_url"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="180" alt="AWS Certified Cloud Practitioner issued by Amazon Web Services Training and Certification" /></a>
+  <a href="https://www.credly.com/badges/6e84b067-9eb6-48aa-8e90-122c79da33b5/public_url"><img src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/linkedin_thumb_CyberEssentials.png" width="180" alt="Cybersecurity Essentials issued by Cisco" /></a>
 </p>
 
 - **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/df09e3f8-e429-40ed-9155-1e100603a07f/public_url)** — Amazon Web Services Training and Certification · emitida em 20/03/2025 · validade até 20/03/2028.
