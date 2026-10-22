@@ -6,7 +6,7 @@
 
 **Engenharia de Software · Desenvolvimento com IA · Segurança Cibernética**
 
-[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Stack](#tecnologias-e-ferramentas) · [Formação](#formação) · [Contato](#contato)
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Stack](#tecnologias-e-ferramentas) · [Formação](#formação) · [Credenciais](#certificações-e-credenciais) · [Contato](#contato)
 
 ## Sobre mim
 
@@ -52,6 +52,12 @@ Compreender o problema e suas restrições, planejar mudanças revisáveis, test
 - **Pós-graduação em Banco de Dados** · concluída.
 - **Análise e Desenvolvimento de Sistemas** · graduação concluída.
 - **Ciência da Computação** · em formação.
+
+## Certificações e credenciais
+
+- **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/df09e3f8-e429-40ed-9155-1e100603a07f/public_url)** — Amazon Web Services Training and Certification · emitida em 20/03/2025 · validade até 20/03/2028.
+- **[AWS re/Start Graduate](https://www.credly.com/badges/de9d0005-a4ad-4648-a217-398b08e1a189/public_url)** — Amazon Web Services Training and Certification · conclusão do programa AWS re/Start · emitida em 30/05/2025.
+- **[Cybersecurity Essentials](https://www.credly.com/badges/6e84b067-9eb6-48aa-8e90-122c79da33b5/public_url)** — Cisco · conclusão do curso · emitida em 06/10/2023.
 
 ## Contato
 
