@@ -28,10 +28,6 @@ Atuação na evolução de uma aplicação para o Reconhecimento de Saberes e Co
 
 Esta apresentação se limita ao contexto e às tecnologias: código, dados e detalhes internos permanecem privados.
 
-### Code Archaeologist MCP Lab · experimental
-
-Laboratório experimental de exploração de IA e MCP para apoiar a leitura de código e a compreensão de sistemas existentes. Espaço de investigação de ferramentas e fluxos de engenharia, com revisão crítica dos resultados.
-
 ## Tecnologias e ferramentas
 
 | Frente | Stack | Aplicação |
