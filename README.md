@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Renata Shirlen — Software Engineering, AI e Cybersecurity. Engenharia com contexto, evolução com propósito." />
+  <img src="assets/hero.svg" width="100%" alt="Renata Shirlen — Engenharia de Software, IA e Segurança Cibernética. Engenharia com contexto, evolução com propósito." />
 </p>
 
 # Olá, eu sou a Renata
 
-**Software Engineering · AI-assisted Development · Cybersecurity**
+**Engenharia de Software · Desenvolvimento com IA · Segurança Cibernética**
 
 Atuo com desenvolvimento de software, conectando a manutenção de sistemas Java à evolução de aplicações web. Uso IA como apoio à engenharia e aprofundo minha formação em Segurança Cibernética no mestrado da Universidade de Brasília.
 
-[About](#about) · [Engineering Focus](#engineering-focus) · [Technical Ecosystem](#technical-ecosystem) · [Featured Projects](#featured-projects) · [Engineering Activity](#engineering-activity) · [Education](#education) · [Connect](#connect)
+[Sobre mim](#sobre-mim) · [Frentes de atuação](#frentes-de-atuação) · [Tecnologias e ferramentas](#tecnologias-e-ferramentas) · [Projetos em destaque](#projetos-em-destaque) · [Prática de engenharia](#prática-de-engenharia) · [Formação](#formação) · [Contato](#contato)
 
-## About
+## Sobre mim
 
 Meu trabalho reúne sistemas legados com **Java 6/7, JSF e JBoss** e aplicações com **Java, Angular e PostgreSQL**. Interesso-me por compreender regras de negócio, tornar o código mais fácil de manter e evoluir sistemas respeitando seu contexto.
 
@@ -18,7 +18,7 @@ Exploro **Claude, Codex, MCP e OpenRouter** em fluxos de desenvolvimento assisti
 
 Minha trajetória também passa por bancos de dados e análise de dados. Hoje, concentro esse repertório na interseção entre engenharia de software, inteligência artificial e segurança.
 
-## Engineering Focus
+## Frentes de atuação
 
 ### 01 / Sustentar e evoluir
 
@@ -36,7 +36,7 @@ Uso de assistentes e exploração de integrações com MCP e OpenRouter para apo
 
 Formação em Segurança Cibernética na UnB, com interesse em aproximar segurança e desenvolvimento: proteção de dados, controle de acesso e análise crítica das decisões de engenharia.
 
-## Technical Ecosystem
+## Tecnologias e ferramentas
 
 | Frente | Tecnologias e ferramentas | Contexto |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Formação em Segurança Cibernética na UnB, com interesse em aproximar seguran
 | Dados | **SQL · Python** | Bancos de dados, análise e estudos |
 | Ambiente de trabalho | **Git · GitHub · Linux · Windows** | Versionamento e ferramentas de desenvolvimento |
 
-## Featured Projects
+## Projetos em destaque
 
 ### [engineering-activity](https://github.com/renatashirlen/engineering-activity)
 
@@ -66,7 +66,7 @@ Parte da minha atuação acontece em repositórios privados. As principais frent
 
 Apresento aqui as tecnologias e os contextos gerais de trabalho, preservando código, dados e detalhes internos dos projetos.
 
-## Engineering Activity
+## Prática de engenharia
 
 Valorizo o contexto por trás de uma mudança: o problema que ela resolve, as decisões tomadas e como seu comportamento foi verificado.
 
@@ -79,14 +79,14 @@ Meu processo se orienta por quatro práticas:
 
 A atividade pública pode ser acompanhada no [engineering-activity](https://github.com/renatashirlen/engineering-activity) e nos [meus repositórios no GitHub](https://github.com/renatashirlen?tab=repositories). Ela representa uma parte da minha atuação em engenharia.
 
-## Education
+## Formação
 
 - **Mestrado em Segurança Cibernética — Universidade de Brasília (UnB)** · em andamento.
 - **Pós-graduação em Banco de Dados** · concluída.
 - **Análise e Desenvolvimento de Sistemas** · graduação concluída.
 - **Ciência da Computação** · em formação.
 
-## Connect
+## Contato
 
 Vamos conversar sobre engenharia de software, evolução de sistemas Java, desenvolvimento com IA e segurança.
 
