@@ -1,55 +1,97 @@
-<h1>✨OLÁ✨</h1>
-<p>Eu sou <strong>Renata Shirlen</strong> e sou mestranda em Segurança Cibernética pela Universidade de Brasília, pós-graduada em Banco de Dados, formada em Análise e Desenvolvimento de Sistemas e estudo de <strong>Ciência da Computação</strong>.</p>
-<p>📚Estou estudando <strong>Python e SQL</strong>.
- 
-<h2>👩🏾‍💻 EM ANDAMENTO 👩🏾‍💻</h2>
-<p>💾 <strong>[CYBERSECURITY]</strong> - PPEE - Mestrado em Segurança Cibernética - Universidade de Brasília </p>
-<p>💾 <strong>[DADOS]</strong> - Administração de Banco de Dados - Escola Superior de Redes </p>
-<p>💾 <strong>[DADOS]</strong> - Análise de Dados e PowerBI - DSA </p>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Renata Shirlen — Software Engineering, AI e Cybersecurity. Engenharia com contexto, evolução com propósito." />
+</p>
 
-<h2>🎓 FINALIZADOS🎓</h2>
-<p><small>Listinha resumida</small></p>
-<p>💾 <strong>[DADOS]</strong> - Análise de Dados e Plataformas LowCode - Embraer Social Tech SoulCode  </p>
-<p>💾 <strong>[DADOS]</strong> - Ciência de Dados - AVANTI </p>
-<p>💾 <strong>[AWS/PYTHON]</strong> - Escola da Nuvem - AWS re/start </p>
-<p>💾 <strong>[DADOS]</strong> Santander Tech+</p>
-<p>💾 <strong>[ANÁLISE DE DADOS E IA]</strong> - PrograMaria</p>
-<p>💾 <strong>[BACK-END]</strong> - PrograMaria</p>
-<p>💾 <strong>[DEV FULL STACK]</strong> Start Tech - Gama Academy - 120 horas</p>
-<p>💾 <strong>[SWIFT]</strong> Workshop Maria vai com as dev - Gama Academy</p>
-<p>💾 <strong>[GIT E GITHUB]</strong> Introdução ao Git e Github - DIO - 5 horas</p>
-<p>💾 <strong>[JAVASCRIPT]</strong> Introdução ao JavaScript - DIO - 5 horas</p>
-<p>💾 <strong>[FRONT END 1] PrograMaria - 36 horas</p>
+# Olá, eu sou a Renata
 
- 
-💡Meus interesses atuais são:</p> 
-<p>🚀 <strong>[ Front-End ]</strong> <strong>[ banco de dados ]</strong> <strong>[ web development ]</strong> </p>
+**Software Engineering · AI-assisted Development · Cybersecurity**
 
-<h2>🔮 STATS 🔮</h2>
+Atuo com desenvolvimento de software, conectando a manutenção de sistemas Java à evolução de aplicações web. Uso IA como apoio à engenharia e aprofundo minha formação em Segurança Cibernética no mestrado da Universidade de Brasília.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=renatashirlen&amp;show_icons=true&amp;theme=cobalt" alt="Renata stats"></p>
+[About](#about) · [Engineering Focus](#engineering-focus) · [Technical Ecosystem](#technical-ecosystem) · [Featured Projects](#featured-projects) · [Engineering Activity](#engineering-activity) · [Education](#education) · [Connect](#connect)
 
-<h2> 💻 LINGUAGENS E FERRAMENTAS 💻</h2>
+## About
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&logoColor=fff)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&amp;logo=scikit-learn&logoColor=white)](#)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&amp;logo=python&logoColor=fff)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&amp;logo=latex&logoColor=fff)](#)
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&amp;logo=zsh&logoColor=fff)](#)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&logoColor=white)](#)
+Meu trabalho reúne sistemas legados com **Java 6/7, JSF e JBoss** e aplicações com **Java, Angular e PostgreSQL**. Interesso-me por compreender regras de negócio, tornar o código mais fácil de manter e evoluir sistemas respeitando seu contexto.
 
-<h3>SISTEMA</h3>
+Exploro **Claude, Codex, MCP e OpenRouter** em fluxos de desenvolvimento assistido por IA, com atenção à revisão das sugestões, à validação das mudanças e à proteção das informações utilizadas.
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&logoColor=black)](#)
-[![Static Badge](https://img.shields.io/badge/ew_windows-red?style=for-the-badge&logo=windows11&logoColor=red&labelColor=white)](#)
+Minha trajetória também passa por bancos de dados e análise de dados. Hoje, concentro esse repertório na interseção entre engenharia de software, inteligência artificial e segurança.
 
-<h2>👤 OUTRAS REDES 👤</h2>
+## Engineering Focus
 
-<p><a href="https://www.linkedin.com/in/renatashirlen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="https://steamcommunity.com/id/itsmealis"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
-<p>
-<img src="https://komarev.com/ghpvc/?username=renatashirlen&color=dc143c" class="center">
+### 01 / Sustentar e evoluir
+
+Manutenção e evolução de aplicações Java 6/7 com JSF e JBoss: entender o comportamento existente, investigar problemas e planejar mudanças compatíveis com as restrições do sistema.
+
+### 02 / Conectar aplicação e dados
+
+Desenvolvimento com Java, Angular e PostgreSQL, aproximando interface, regras de negócio e persistência. Atenção à clareza do código, à consistência dos dados e à experiência de quem usa o sistema.
+
+### 03 / Integrar IA ao processo
+
+Uso de assistentes e exploração de integrações com MCP e OpenRouter para apoiar leitura de código, planejamento, implementação e revisão. As decisões técnicas e a validação continuam sob responsabilidade humana.
+
+### 04 / Aprofundar segurança
+
+Formação em Segurança Cibernética na UnB, com interesse em aproximar segurança e desenvolvimento: proteção de dados, controle de acesso e análise crítica das decisões de engenharia.
+
+## Technical Ecosystem
+
+| Frente | Tecnologias e ferramentas | Contexto |
+| :--- | :--- | :--- |
+| Sistemas legados | **Java 6/7 · JSF · JBoss** | Manutenção e evolução de aplicações existentes |
+| Aplicações web | **Java · Angular · PostgreSQL** | Desenvolvimento de aplicações e integração com dados |
+| Desenvolvimento com IA | **Claude · Codex · MCP · OpenRouter** | Assistência ao desenvolvimento e exploração de fluxos com ferramentas e modelos |
+| Dados | **SQL · Python** | Bancos de dados, análise e estudos |
+| Ambiente de trabalho | **Git · GitHub · Linux · Windows** | Versionamento e ferramentas de desenvolvimento |
+
+## Featured Projects
+
+### [engineering-activity](https://github.com/renatashirlen/engineering-activity)
+
+**Projeto público em destaque neste portfólio.**
+
+Consulte o repositório para conhecer seu escopo, documentação e histórico de evolução.
+
+[Explorar o projeto →](https://github.com/renatashirlen/engineering-activity)
+
+### Experiência em projetos privados
+
+Parte da minha atuação acontece em repositórios privados. As principais frentes são:
+
+- **Sistemas Java legados:** manutenção e evolução com Java 6/7, JSF e JBoss.
+- **Aplicações web:** desenvolvimento com Java, Angular e PostgreSQL.
+- **Desenvolvimento assistido por IA:** uso e exploração de Claude, Codex, MCP e OpenRouter no processo de engenharia.
+
+Apresento aqui as tecnologias e os contextos gerais de trabalho, preservando código, dados e detalhes internos dos projetos.
+
+## Engineering Activity
+
+Valorizo o contexto por trás de uma mudança: o problema que ela resolve, as decisões tomadas e como seu comportamento foi verificado.
+
+Meu processo se orienta por quatro práticas:
+
+1. **Compreender** o problema, as regras de negócio e as restrições existentes.
+2. **Planejar** mudanças pequenas, compreensíveis e passíveis de revisão.
+3. **Validar** o comportamento e revisar criticamente as sugestões de IA.
+4. **Documentar** decisões e aprendizados que ajudem a próxima evolução.
+
+A atividade pública pode ser acompanhada no [engineering-activity](https://github.com/renatashirlen/engineering-activity) e nos [meus repositórios no GitHub](https://github.com/renatashirlen?tab=repositories). Ela representa uma parte da minha atuação em engenharia.
+
+## Education
+
+- **Mestrado em Segurança Cibernética — Universidade de Brasília (UnB)** · em andamento.
+- **Pós-graduação em Banco de Dados** · concluída.
+- **Análise e Desenvolvimento de Sistemas** · graduação concluída.
+- **Ciência da Computação** · em formação.
+
+## Connect
+
+Vamos conversar sobre engenharia de software, evolução de sistemas Java, desenvolvimento com IA e segurança.
+
+**[LinkedIn](https://www.linkedin.com/in/renatashirlen/)** · **[GitHub](https://github.com/renatashirlen)**
+
+---
+
+<p align="center"><sub>Compreender o contexto. Construir com clareza. Evoluir com responsabilidade.</sub></p>
