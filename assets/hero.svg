@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Renata Shirlen — Engenharia de Software, IA e Segurança Cibernética</title>
-  <desc id="desc">Banner azul-noturno com detalhes em ciano e violeta. Engenharia com contexto, evolução com propósito.</desc>
+  <desc id="desc">Banner roxo profundo com detalhes em roxo e rosa. Engenharia com contexto, evolução com propósito.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091426"/><stop offset="1" stop-color="#191631"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#bda4ff"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a9b8d1" stroke-opacity=".06"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171224"/><stop offset="1" stop-color="#241b36"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#C084FC"/><stop offset="1" stop-color="#F9A8D4"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C084FC" stroke-opacity=".06"/></pattern>
   </defs>
   <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
   <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
   <rect x="56" y="58" width="46" height="4" rx="2" fill="url(#accent)"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="56" y="111" fill="#a9b8d1" font-size="17" letter-spacing="3">RENATASHIRLEN / PORTFÓLIO TÉCNICO</text>
-    <text x="53" y="184" fill="#f1f5ff" font-size="60" font-weight="700">Renata Shirlen</text>
-    <text x="56" y="232" fill="#91e9f7" font-size="23">Engenharia de Software · IA · Segurança Cibernética</text>
-    <text x="56" y="292" fill="#c5cee0" font-size="21">Engenharia com contexto. Evolução com propósito.</text>
+    <text x="56" y="111" fill="#C084FC" font-size="17" letter-spacing="3">RENATASHIRLEN / PORTFÓLIO TÉCNICO</text>
+    <text x="53" y="184" fill="#F5E9FF" font-size="60" font-weight="700">Renata Shirlen</text>
+    <text x="56" y="232" fill="#F9A8D4" font-size="23">Engenharia de Software · IA · Segurança Cibernética</text>
+    <text x="56" y="292" fill="#F5E9FF" font-size="21">Engenharia com contexto. Evolução com propósito.</text>
   </g>
   <g fill="none" stroke="url(#accent)" stroke-width="2">
     <path d="M1018 76l100 57v114l-100 57-100-57V133z" opacity=".35"/>
@@ -21,6 +21,6 @@
     <path d="M989 169l-24 21 24 21m58-42 24 21-24 21m-21-54-16 66" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M1118 190h68m-168 114v24m0-276v24" opacity=".35"/>
   </g>
-  <g fill="#91e9f7"><circle cx="1186" cy="190" r="4"/><circle cx="1018" cy="52" r="4"/></g>
-  <circle cx="1018" cy="328" r="4" fill="#bda4ff"/>
+  <g fill="#F9A8D4"><circle cx="1186" cy="190" r="4"/><circle cx="1018" cy="52" r="4"/></g>
+  <circle cx="1018" cy="328" r="4" fill="#F9A8D4"/>
 </svg>
